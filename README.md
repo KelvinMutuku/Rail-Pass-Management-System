@@ -1,12 +1,14 @@
 # Rail-Pass-Management-System
 The Railway Pass Management system(developed using PHP and MySQL) is a web-based technology that will manage the records of the pass which is issued by administration and also help to provide online railway passes to people who need to travel daily.Railway Pass Management System Project is helpful to railway administration by reducing the paperwork, and time consumption and making the process of getting a railway pass as simple and fast.
 
-#Software Requirement to run this project
+#Software Requirement to run this project:
+
 XAMPP SERVER
 
 PHP MYADMIN
 
-#Tools and Technologies to be used in this project
+#Tools and Technologies to be used in this project:
+
 XAMPP SERVER
 
 PHP MYADMIN
@@ -28,6 +30,7 @@ PHP MYADMIN
 7. Run the script http://localhost/rpms
 
 #Credential for Admin panel :
+
 Username: admin
 
 Password: Test@123
