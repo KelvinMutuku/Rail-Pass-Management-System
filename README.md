@@ -3,10 +3,12 @@ The Railway Pass Management system(developed using PHP and MySQL) is a web-based
 
 #Software Requirement to run this project
 XAMPP SERVER
+
 PHP MYADMIN
 
 #Tools and Technologies to be used in this project
 XAMPP SERVER
+
 PHP MYADMIN
 
 #How To Import And Run The Project?
@@ -27,4 +29,5 @@ PHP MYADMIN
 
 #Credential for Admin panel :
 Username: admin
+
 Password: Test@123
