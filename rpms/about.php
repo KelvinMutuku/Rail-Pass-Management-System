@@ -6,7 +6,7 @@ error_reporting(0);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Railway Pass Management System || About Us Page</title>
+<title>RPMS || About Page</title>
 
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Custom Theme files -->
