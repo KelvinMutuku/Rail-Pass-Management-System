@@ -35,7 +35,7 @@ echo "<script>window.location.href ='contact.php'</script>";
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Railway Pass Management System || Contact Us Page</title>
+<title>RPMS || Contact Us Page</title>
 
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Custom Theme files -->
