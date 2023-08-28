@@ -7,7 +7,7 @@ include('includes/dbconnection.php');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Railway Pass Management System || Home Page</title>
+<title>RPMS || Home Page</title>
 
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Custom Theme files -->
@@ -37,7 +37,7 @@ include('includes/dbconnection.php');
 		</div>
 	</div>
 	
-	
+	 
 	
 		
 	<!-- footer -->
