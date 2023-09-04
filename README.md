@@ -34,3 +34,5 @@ PHP MYADMIN
 Username: admin
 
 Password: Test@123
+
+8.To access the page online click the link: https://rpmsalx.000webhostapp.com/index.php
