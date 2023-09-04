@@ -7,7 +7,7 @@ error_reporting(0);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Rail Pass Management System || View Pass Page</title>
+<title>RPMS || View Pass Page</title>
 
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Custom Theme files -->
@@ -57,6 +57,7 @@ error_reporting(0);
 				
 				<div class="clearfix"> </div>	
 				<div class="table-responsive" id="divToPrint">
+
                                  <?php
 $vid=$_GET['viewid'];
 $sql="SELECT * from  tblpass where ID=$vid";
@@ -68,8 +69,9 @@ if($query->rowCount() > 0)
 {
 foreach($results as $row)
 {               ?>
-                                    <table border="2" class="table table-bordered" style="font-size: 18px;" > 
-                                    <tr align="center">
+
+<table border="2" class="table table-bordered" style="font-size: 18px;" > 
+<tr align="center">
 <td colspan="6" style="font-size:20px;color:blue">
  Pass ID: <?php  echo ($row->PassNumber);?></td></tr>
    <tr>
